@@ -1,4 +1,4 @@
-name: OWASP ZAP Scan
+name: Sondos_OWASP ZAP Scan
 
 on:
   push:

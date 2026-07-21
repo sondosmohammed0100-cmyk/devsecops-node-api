@@ -1,4 +1,4 @@
-name: Trivy Scan
+name: Sondos_Trivy Scan
 
 on:
   push:
