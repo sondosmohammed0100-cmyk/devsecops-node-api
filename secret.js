@@ -1,0 +1,3 @@
+const AWS_SECRET_ACCESS_KEY = "AKIA123456789EXAMPLE";
+
+module.exports = {};
