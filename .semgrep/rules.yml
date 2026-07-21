@@ -1,0 +1,7 @@
+rules:
+  - id: no-eval
+    pattern: eval(...)
+    message: "Do not use eval()"
+    severity: ERROR
+    languages:
+      - javascript
